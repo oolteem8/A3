@@ -1,3 +1,5 @@
 /gamemode survival
 /gamemode creative
 /gamemode survival
+/spark profiler open
+/spark healthreport --upload

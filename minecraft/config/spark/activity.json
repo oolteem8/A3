@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "oolteem8",
+      "uniqueId": "0b85854b-37fd-41aa-bb50-b49403e11f3e"
+    },
+    "time": 1774355465741,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gIpllgjbms"
+    }
+  }
+]

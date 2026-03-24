@@ -1,3 +1,5 @@
 /gamemode survival
 /gamemode creative
 /gamemode survival
+/spark activity --page
+/spark profiler stop

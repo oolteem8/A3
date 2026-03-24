@@ -1,0 +1,10 @@
+{
+  "allowMovement": {
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true
+  },
+  "hideBackground": {
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true
+  }
+}

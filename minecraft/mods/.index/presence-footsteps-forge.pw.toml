@@ -1,0 +1,17 @@
+filename = 'Presence Footsteps [NEOFORGE]+1.21-1.1.0.jar'
+name = 'Presence Footsteps [FORGE]'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = '5305280687c3f4ae320f1ef6ac1720a3d68d02a4d56f1e28d5cd34a6c7b000302a4adce7de3ec0ec63326f1a3de4a18ddd2dd5179123d3ed9c699e50d568e0a3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dLfueQtY/versions/APwizIWh/Presence Footsteps %5BNEOFORGE%5D%2B1.21-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'dLfueQtY'
+version = 'APwizIWh'

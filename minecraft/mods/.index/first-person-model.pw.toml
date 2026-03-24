@@ -1,0 +1,17 @@
+filename = 'firstperson-neoforge-2.6.3-mc1.21.1.jar'
+name = 'First-person Model'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.6.3'
+
+[download]
+hash = 'e61ecde1f972a2f4d8f2c2957617f2ed8eb838843dda4cc0de324c6ef870e91f0bfebc47305785ec9f702a9f4e09c36d379c92fce970de11e9d74e2b1772f884'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H5XMjpHi/versions/MnVMPnK7/firstperson-neoforge-2.6.3-mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'H5XMjpHi'
+version = 'MnVMPnK7'

@@ -1,0 +1,17 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:coal",
+    "item:minecraft:charcoal",
+    "item:minecraft:coal_ore",
+    "item:minecraft:stone"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

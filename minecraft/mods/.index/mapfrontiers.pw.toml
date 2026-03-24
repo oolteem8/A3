@@ -1,0 +1,17 @@
+filename = 'MapFrontiers-1.21.1-2.7.0-beta.18-neoforge.jar'
+name = 'MapFrontiers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-2.7.0-beta.18-neoforge'
+
+[download]
+hash = 'b337bba38050dc58e7524a84ba7ecf4f57ffed02e265fbe709082b76f87c2b27f1e3a032bba43242c2d2275926295dfdff47c3d26c29373ab6eb33ea08638fdf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hWlsli6y/versions/ISVYP2Bt/MapFrontiers-1.21.1-2.7.0-beta.18-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'hWlsli6y'
+version = 'ISVYP2Bt'

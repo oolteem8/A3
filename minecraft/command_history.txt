@@ -3,3 +3,4 @@
 /gamemode survival
 /spark profiler open
 /spark healthreport --upload
+/spark profiler stop

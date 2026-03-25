@@ -244,8 +244,8 @@ key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f:CONTROL
-key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_keybind.invmove.toggleMove:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0

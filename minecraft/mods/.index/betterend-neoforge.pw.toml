@@ -1,0 +1,17 @@
+filename = 'BetterEnd-21.0.24.jar'
+name = 'BetterEnd Neoforge'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'BetterEnd-21.0.24 [1.21.1]'
+
+[download]
+hash = 'a4344efa302c04ab11fa5313032836c662fb540c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7754760
+project-id = 1422294

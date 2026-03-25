@@ -1,0 +1,17 @@
+filename = 'regions-unexplored-0.6+beta3-neoforge-21.1.jar'
+name = 'Regions Unexplored'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.6+beta3'
+
+[download]
+hash = '8b01d4f0e547ae1f1362256674fabbfca878ac281cfbfeeef0833d1d0bd0e01373575b37c9031c0c4930e7c54ab11b8d89c1f32509ea7d61bc670be4c900fc0e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Tkikq67H/versions/3qWB25z2/regions-unexplored-0.6%2Bbeta3-neoforge-21.1.jar'
+
+[update.modrinth]
+mod-id = 'Tkikq67H'
+version = '3qWB25z2'

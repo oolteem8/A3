@@ -1,6 +1,7 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:firework_rocket{\"minecraft:fireworks\":{flight_duration:3b}}",
     "item:minecraft:coal",
     "item:minecraft:charcoal",
     "item:minecraft:coal_ore",

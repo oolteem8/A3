@@ -1,0 +1,17 @@
+filename = 'bclib-21.0.20.jar'
+name = 'BCLib Neoforge'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bclib-21.0.20 [1.21.1]'
+
+[download]
+hash = 'ddeb239d00fe5ece6352778726e4f599c7f20b49'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7755328
+project-id = 1422283

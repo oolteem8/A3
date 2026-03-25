@@ -66,6 +66,17 @@
       },
       "sync": "minecraft:hotbar"
     },
+    "explorerscompass:explorers_compass": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "explorerscompass:explorers_compass"
+    },
     "inventoryhud:armor": {
       "displacement": {
         "x": 0,

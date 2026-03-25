@@ -1,10 +1,13 @@
 {
   "allowMovement": {
     "top.theillusivec4.curios.client.gui.CuriosScreen": true,
-    "dev.emi.emi.screen.RecipeScreen": true
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.nine.travelerscompass.client.screen.CompassScreen": true,
+    "com.chaosthedude.explorerscompass.gui.ExplorersCompassScreen": true
   },
   "hideBackground": {
     "top.theillusivec4.curios.client.gui.CuriosScreen": true,
-    "dev.emi.emi.screen.RecipeScreen": true
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.nine.travelerscompass.client.screen.CompassScreen": true
   }
 }

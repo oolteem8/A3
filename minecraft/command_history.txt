@@ -4,3 +4,5 @@
 /spark profiler open
 /spark healthreport --upload
 /spark profiler stop
+/gamemode survival
+/gamemode creative

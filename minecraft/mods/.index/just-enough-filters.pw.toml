@@ -1,0 +1,17 @@
+filename = 'justenoughfilters-neoforge-1.2.0+1.21.1.jar'
+name = 'Just Enough Filters (JEF)'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge 1.21.1] v1.2.0'
+
+[download]
+hash = '318050dbf1c33f9c39d1b9990b027cc7f191e6d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7780181
+project-id = 1419713
